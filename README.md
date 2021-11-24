@@ -1,1 +1,1 @@
-# Equipe_automa-o
+# Equipe_automacao
